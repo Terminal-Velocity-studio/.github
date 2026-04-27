@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
+# About this organisation
 
-**Here are some ideas to get you started:**
+This organisation's first project was Sagittarius OS, as well as the main focus. We make open source projects because that's the way to make the world slightly better.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Fun facts
+
+Our favorite languages are C++ and Rust for them being low-level and overall convenient.
